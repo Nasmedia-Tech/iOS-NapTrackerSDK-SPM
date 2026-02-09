@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "NapTrackerSDKBinary",
-            url: "https://github.com/Nasmedia-Tech/iOS-NapTrackerSDKDownload/raw/main/NapTrackerSDK0.5.0.xcframework.zip",
-            checksum: "03362dedd5e3886969aaa5495840aae6f2e58add9193702e2ae4242a5f759218"
+            url: "https://github.com/Nasmedia-Tech/iOS-NapTrackerSDKDownload/raw/main/NapTrackerSDK1.0.0.xcframework.zip",
+            checksum: "f78bcc96494cf54fb8d46804e934d5f4e5079dcb9a940bc573bdbc3eac8130be"
         ),
         .target(
             name: "iOS_NapTrackerSDK_SPM",
